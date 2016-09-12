@@ -16,7 +16,7 @@ eve.eating();
 //Now we can play god by building objects with different behaviour
 let jesus = {name:"Jesus"}
 var waterwalking = (name) =>{
-	console.log(name+" is walking over the water.")
+	console.log(name+" is walking on the water.")
 }
 
 var doMagic = (magicalFunction) => {
