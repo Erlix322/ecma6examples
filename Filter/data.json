@@ -1,0 +1,23 @@
+{
+   "students": [
+        {   
+            "name":"Eric",
+            "grades":[
+                {"id":"BS","grade":"1.7","semester":"1"},
+                {"id":"SEI","grade":"1.0","semester":"2"}
+            ],
+            "residence":"Dresden"
+        },
+        {
+            "name":"Felix",
+            "grades":[
+                {"id":"BS","grade":"1.7","semester":"1"},
+                {"id":"SEI","grade":"1.0","semester":"2"}
+            ],
+            "residence":"Freital"
+
+        }
+    ]
+
+
+}
